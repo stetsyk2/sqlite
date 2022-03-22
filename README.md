@@ -10,7 +10,7 @@ import (
   "gorm.io/gorm"
 )
 
-// github.com/mattn/go-sqlite3
+// github.com/stetsyk2/go-sqlite3
 db, err := gorm.Open(sqlite.Open("gorm.db"), &gorm.Config{})
 ```
 
