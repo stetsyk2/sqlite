@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module github.com/stetsyk2/sqlite
 
 go 1.14
 
