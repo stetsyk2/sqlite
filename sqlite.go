@@ -17,7 +17,7 @@ import (
 )
 
 // DriverName is the default driver name for SQLite.
-const DriverName = "sqlite3_ext"
+const DriverName = "sqlite3"
 
 type Dialector struct {
 	DriverName string
